@@ -101,7 +101,7 @@
     "grunt-browserify": "^5.0.0",
     "grunt-contrib-connect": "^1.0.2",
     "grunt-saucelabs": "^9.0.0",
-    "mocha": "^3.5.3",
+    "mocha": "^10.2.0",
     "mochawesome": "^3.0.3",
     "ts-md5": "^1.2.0"
   }
